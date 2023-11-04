@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" modified="2023-11-03T06:44:05.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5Tc6arDczBkYIVZYspKm" version="22.0.8" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1877" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="enYVxfRytq9yqBFDbY5I-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="800" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-1" value="Distribuição de pedidos&lt;br&gt;por tipo de tráfego" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-2" value="Comparação de volume de pedidos por cidade/tráfego" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-3" value="Localização central de cada cidade por tráfego" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="200" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-5" value="Quantidade de pedidos/dia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="40" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-6" value="Quantidade de pedidos/semana" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-7" value="Quantidade de pedidos por entregador por semana" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="160" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="40" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-9" value="Curry Company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-10" value="Sidebar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-12" value="&lt;div align=&quot;center&quot;&gt;&lt;h1&gt;Crescimento&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;da&lt;/h1&gt;&lt;h1&gt;&amp;nbsp;Empresa&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-260" width="166" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-14" value="&lt;div align=&quot;center&quot;&gt;&lt;h1&gt;Visão de Planejamento&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="-110" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EVOS9u1DS_d9DYRtOKxA-15" value="&lt;div align=&quot;center&quot;&gt;&lt;h1&gt;Visão Estratégica&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="-110" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-1" value="&lt;div align=&quot;center&quot;&gt;&lt;h1&gt;Crescimento&lt;br&gt; de&lt;br&gt;Restaurantes&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="278" y="290" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-2" value="Entregadores unicos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-6" value="Distância média " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="490" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-7" value="Desvio padrão médio s/ festival" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-8" value="O desvio padrão c/ festival" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="490" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-10" value="Distribuição da distancia médao por cidade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="580" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="400" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-13" value="Curry Company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-14" value="Sidebar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-15" value="Distribuição do tempo por cidade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="400" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JmXH__RSwniuUU-lKENc-16" value="Tempo médio por tipo de entrega" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="520" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-1" value="Maior idade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-2" value="Avaliações média por entregador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="920" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-3" value="Menor idade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-4" value="Melhor condição veiculo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-5" value="Pior&lt;br&gt; condição veiculo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-6" value="Avaliações média por transito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-7" value="Avaliações média por condição climática" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-8" value="Curry Company" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="905" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-9" value="Sidebar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="825" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-10" value="Top entregadores mais rapidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-11" value="Top entregadores mais lentos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-12" value="&lt;div align=&quot;center&quot;&gt;&lt;h1&gt;Crescimento&lt;br&gt; de&lt;br&gt;Entregadores&lt;br&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-14" value="Tempo de entrega médio s/ festival" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-15" value="Tempo de entrega médio c/ festival" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="enYVxfRytq9yqBFDbY5I-16" value="Tempo médio por cidade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="320" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
