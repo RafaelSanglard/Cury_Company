@@ -1,2 +1,2 @@
-This repository has the objective to simulate the creation of a company strategy dashboard.
-For that i used Streamlit.
+O objetivo desse repositório é simular a criação de um dashbord estratégico,para isso usei o streamlit:
+Link para o projeto: https://rsang-projects-cury-company.streamlit.app/
